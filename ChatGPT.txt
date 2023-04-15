@@ -1,0 +1,7 @@
+vytvor program v pythonu.
+Pouzij SQLite, SQLAlchemy, Alembic, QT5.
+Zakladni funkcionality programu: moznost spravovat databazi s udaji na akupu a prodeji akcii.
+
+databaze bude obsahovat tabulku akce.
+V tabulce akce budou tzto informace: nazev akci, mena, pocet kusu, broker, datum.
+Pro aplikaci pouzij navrhovy vzor "model view controller".
